@@ -1,0 +1,7 @@
+Origin: Veynix Repo
+Label: Veynix
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Veynix Official APT Repository

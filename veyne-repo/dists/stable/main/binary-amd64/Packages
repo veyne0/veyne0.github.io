@@ -1,0 +1,15 @@
+Package: veynix-manager
+Version: 1.0.0-1
+Architecture: all
+Maintainer: root@Veynix
+Installed-Size: 8
+Provides: veynix-manager
+Filename: veyne-repo/pool/main/veynix-manager_1.0.0_all.deb
+Size: 724
+MD5sum: 8394d9982a7364adf8fd09ef19f19903
+SHA1: 9cbcd4fc90cd31df7a81483aaadd4e7429f5a6b7
+SHA256: 7044d08b7e9f5cc59b12134659a08b188b7d0ecd8a550059794d30bc7f1e6df6
+Section: checkinstall
+Priority: extra
+Description: Package created with checkinstall 1.6.3
+
